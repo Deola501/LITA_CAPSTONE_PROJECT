@@ -96,10 +96,6 @@ FROM [LITA SalesData]
 GROUP BY Region;
 ```
 ```SQL
-
-### Data Visualizations
----
-
 SELECT Product
 FROM [LITA SalesData]
 WHERE Product NOT IN (
@@ -108,3 +104,5 @@ WHERE Product NOT IN (
     WHERE OrderDate >= DATEADD(QUARTER, -1, GETDATE()))
 GROUP BY Product;
 ```
+### Data Visualization
+---
