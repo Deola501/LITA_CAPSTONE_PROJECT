@@ -106,3 +106,5 @@ GROUP BY Product;
 ```
 ### Data Visualization
 ---
+![Highest Selling Product](https://github.com/user-attachments/assets/d387fcee-6076-4109-b514-4a2cbca77a87)
+![Highest Selling Product2](https://github.com/user-attachments/assets/c80c59b3-e46f-4468-a6e6-69589af376d6)
