@@ -12,8 +12,8 @@ The primary Data used here is the SalesData provided by the Incubator Hub
 
 ### Tools Used
 ---
-- Microsoft Excel for Data cleaning and analysis 
-- Structured Query Languauge (SQL) for querying of Data
+- Microsoft Excel for Data cleaning and analysis [download here](https://1drv.ms/x/c/3d767624932c4481/ERzDuN5kbpFDi2Wqln3uMh8BWO5GXEt1kxtKwOh4drFSsQ?e=pAxWru)
+- Structured Query Languauge (SQL) for querying of Data [download here](https://1drv.ms/w/c/3d767624932c4481/Ef7LsocSyQNPtM0sxBkDodkBWGGN3mfFNM7SJ3Qck1IYZQ?e=UTUKSO)
 - Micosoft PowerBI for visualization
 - Github for portfolio building
 
